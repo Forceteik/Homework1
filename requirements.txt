@@ -1,0 +1,2 @@
+pycoingecko>=2.2.0
+itertools>=3.5
