@@ -14,3 +14,4 @@ res = list(islice(reversed(sorted_coins), 0, num)) #reverse list for output
 
 for i in res:
     print (i["id"], i["current_price"]) 
+    
